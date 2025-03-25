@@ -20,7 +20,7 @@ const translations = {
     'nav.education': 'Education',
     
     // Hero Section
-    'hero.greeting': "Hi, I'm Sri Gudibandi",
+    'hero.greeting': "Hi, I'm Venkata Sai Varma",
     'hero.title': 'Full Stack Developer and Security Engineer',
     'hero.description': 'Specializing in secure software development, scalable web applications, and automation. Proven experience in enhancing system performance and delivering robust, user-focused solutions.',
     
