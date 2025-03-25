@@ -11,8 +11,8 @@ const nextConfig: NextConfig = {
       },
     ],
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/venkata_sai' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/venkata_sai' : '',
+  basePath:  '',
+  assetPrefix:  '',
   trailingSlash: true,
 };
 
