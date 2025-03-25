@@ -21,7 +21,7 @@ const translations = {
     
     // Hero Section
     'hero.greeting': "Hi, I'm Venkata Sai Varma",
-    'hero.title': 'Full Stack Developer and Security Engineer',
+    'hero.title': '2D Materials Researcher | Wearable Tech Innovator | PhD Candidate @ Shizuoka University | Research Assistant @ Ikeda-Hamasaki Lab, Research Institute of Electronics',
     'hero.description': 'Specializing in secure software development, scalable web applications, and automation. Proven experience in enhancing system performance and delivering robust, user-focused solutions.',
     
     // About Section
